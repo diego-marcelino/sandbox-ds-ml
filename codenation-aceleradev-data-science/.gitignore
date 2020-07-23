@@ -1,0 +1,8 @@
+**/venv/
+**/.venv/
+**/stdout.txt
+**/output.xml
+**/.vscode
+**/.pytest_cache
+**/*.pyc
+**/*.arff
